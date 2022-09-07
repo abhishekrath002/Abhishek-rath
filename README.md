@@ -1,4 +1,4 @@
-[![MasterHead]("https://www.google.com/imgres?imgurl=https%3A%2F%2Fasset.fujifilm.com%2Fwww%2Fus%2Ffiles%2F2020-05%2F7e45d44b9f5ca6249ec9f6596453407c%2Fsecurity_banner.jpg&imgrefurl=https%3A%2F%2Fwww.fujifilm.com%2Fus%2Fen%2Finformation-security&tbnid=NldC1oaOHkXtSM&vet=12ahUKEwjc05ic0YL6AhUGzqACHVUZDs0QMygLegUIARDxAQ..i&docid=wGmsBrpEw4UUrM&w=680&h=242&q=cybersecurity%20banner&ved=2ahUKEwjc05ic0YL6AhUGzqACHVUZDs0QMygLegUIARDxAQ")]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhishek Rath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-18657810">
