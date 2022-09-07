@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-18657810">
 
-<p align="left"> <img src="https://tenor.com/view/coding-gif-18657810" alt="gif" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/abhishe15010457" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe15010457?logo=twitter&style=for-the-badge" alt="abhishe15010457" /></a> </p>
 
