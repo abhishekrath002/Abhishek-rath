@@ -1,4 +1,4 @@
-[![MasterHead](https://www.freepik.com/premium-vector/programming-banner-coding-best-programming-languages-flat-illustration-concept_6556940.html)]
+[![MasterHead]([https://www.dreamstime.com/illustration/programming-banner.html](https://www.dreamstime.com/illustration/programming-banner.html))]
 <h1 align="center">Hi 👋, I'm Abhishek Rath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
