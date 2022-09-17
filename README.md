@@ -1,6 +1,6 @@
-[![MasterHead]([https://www.dreamstime.com/illustration/programming-banner.html](https://www.dreamstime.com/illustration/programming-banner.html))]
 <h1 align="center">Hi 👋, I'm Abhishek Rath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="right"><img src="https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif"/></h3>
 
 
 
