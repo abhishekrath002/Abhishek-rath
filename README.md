@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhishek Rath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h3 align="right"><img src="https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif"/></h3>
+
 
 
 
 
 <p align="left"> <a href="https://twitter.com/abhishe15010457" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe15010457?logo=twitter&style=for-the-badge" alt="abhishe15010457" /></a> </p>
+<h3 align="right"><img src="https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif"/></h3>
 
 - 🔭 I’m currently working on [bharattradition](https://bharattradition.com/)
 
